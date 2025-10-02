@@ -3,7 +3,7 @@
 **MintForge** is a full-stack NFT minting dApp that allows users to connect their wallets, upload artwork, and mint NFTs directly on the blockchain. All NFT metadata and images are stored on IPFS, ensuring decentralization and permanence.
 
 ## Features
-- Wallet integration with **MetaMask**.
+- Wallet integration with **MetaMask**. 
 - Upload images and metadata to **IPFS**.
 - Mint NFTs using **ERC-721 smart contracts**. 
 - View all minted NFTs associated with your wallet.
