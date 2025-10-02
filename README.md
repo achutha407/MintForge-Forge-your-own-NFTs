@@ -5,7 +5,7 @@
 ## Features
 - Wallet integration with **MetaMask**.
 - Upload images and metadata to **IPFS**.
-- Mint NFTs using **ERC-721 smart contracts**.
+- Mint NFTs using **ERC-721 smart contracts**. 
 - View all minted NFTs associated with your wallet.
 - Full-stack implementation with **React frontend + Solidity backend + Node.js server (optional)**.
 
