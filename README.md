@@ -22,5 +22,3 @@
 2. **IPFS Integration:** Upload images and JSON metadata to IPFS, retrieve CID.
 3. **Smart Contract:** Mint NFT using ERC-721 contract with metadata URI pointing to IPFS.
 4. **NFT Display:** Fetch minted NFTs via contract calls and display in user gallery.
-
-
